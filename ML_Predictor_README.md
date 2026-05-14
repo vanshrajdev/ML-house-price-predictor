@@ -5,11 +5,11 @@ Train multiple ML models on real housing data, compare their performance, and pr
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-[![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+Experience the deployed Streamlit application here:
 
-> *(Replace this with your actual Streamlit Cloud link after deploying)*
+👉 https://ml-house-price-predictor-znkwaqsycsszwhfhsvappb9.streamlit.app/
 
 ---
 
