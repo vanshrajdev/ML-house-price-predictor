@@ -16,31 +16,21 @@ Train multiple ML models on real housing data, compare their performance, and pr
 ## 🖼️ Screenshots
 ## 📸 Project Screenshots
 
-### 1️⃣ Dashboard Overview
-
 ![Dashboard](Screenshot%202026-05-15%20001349.png)
 
 ---
-
-### 2️⃣ Dataset Overview
 
 ![Dataset](Screenshot%202026-05-15%20001400.png)
 
 ---
 
-### 3️⃣ Model Training
-
 ![Training](Screenshot%202026-05-15%20001411.png)
 
 ---
 
-### 4️⃣ Prediction Results
-
 ![Predictions](Screenshot%202026-05-15%20001425.png)
 
 ---
-
-### 5️⃣ Charts & Visualizations
 
 ![Charts](Screenshot%202026-05-15%20001437.png)
 > *(Add screenshots here after running the app)*
